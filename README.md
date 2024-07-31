@@ -3,7 +3,7 @@
 * We used the core data
 * We created the add button
 * Adding data to the application home screen
-* Scrool view
+* Scroll view
 * Used the images on the phone
 
 
